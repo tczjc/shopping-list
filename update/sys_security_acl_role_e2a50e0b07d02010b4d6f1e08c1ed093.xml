@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-10 07:02:13</sys_created_on>
+        <sys_id>e2a50e0b07d02010b4d6f1e08c1ed093</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_528475_shopping_shopping_item.public</sys_name>
+        <sys_package display_value="Shopping List" source="x_528475_shopping">b83486c707d02010b4d6f1e08c1ed031</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">b83486c707d02010b4d6f1e08c1ed031</sys_scope>
+        <sys_security_acl display_value="x_528475_shopping_shopping_item">6aa582c707d02010b4d6f1e08c1ed0b7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e2a50e0b07d02010b4d6f1e08c1ed093</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-10 07:02:13</sys_updated_on>
+        <sys_user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
